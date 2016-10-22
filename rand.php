@@ -2,8 +2,6 @@
 	$br1=$_POST['br1'];
 	$br2=$_POST['br2'];
 
-	//echo$_POST['br1'];
-
 	function gen($br1,$br2){
 
 		$br1=(int)$br1;
